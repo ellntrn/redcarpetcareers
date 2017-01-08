@@ -19,7 +19,10 @@
     ?>
     </div>
     <div id="para"> <h3> HTML Coding/Design: </h3>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus volutpat ut enim ac faucibus. Maecenas pellentesque justo at interdum viverra. Proin pretium metus commodo, dapibus elit eget, luctus nisi. Duis nec ultricies libero, nec sagittis sapien. In eu neque in dolor laoreet tincidunt sit amet faucibus augue. Maecenas viverra tellus sit amet elementum pellentesque. Suspendisse a neque eu turpis mattis posuere.</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus volutpat ut enim ac faucibus. Maecenas 
+      pellentesque justo at interdum viverra. Proin pretium metus commodo, dapibus elit eget, luctus nisi. Duis 
+      nec ultricies libero, nec sagittis sapien. In eu neque in dolor laoreet tincidunt sit amet faucibus augue. 
+      Maecenas viverra tellus sit amet elementum pellentesque. Suspendisse a neque eu turpis mattis posuere.</p>
 
     <ul>
         <li><strong>Salary:</strong> Mauris mauris neque, molestie quis varius vitae, </li>
